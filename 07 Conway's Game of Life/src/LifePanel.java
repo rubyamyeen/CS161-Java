@@ -1,8 +1,6 @@
 /*
  * Panel for Conway's life simulation. This draws the grid
  * and the cells
- * Date: 11/13/17
- * Author: Zareef Amyeen
  */
 import java.awt.Color;
 import java.awt.Graphics;

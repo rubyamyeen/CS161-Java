@@ -2,8 +2,6 @@
  * This project uses Graphic User Interface from Java to Create a Tic Tac Board outside of the console. 
  * Two users will press the buttons on the board to make value X or O, and the user can also change their number.
  * Each time a button is pressed the program will check for a Tie or a Win and will reset the board and update the score.
- * Author: Zareef Amyeen
- * Date : 10/24/17
  */
 
 import java.awt.*;

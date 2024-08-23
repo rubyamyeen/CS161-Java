@@ -1,6 +1,4 @@
-/**
- * @author Zareef
- * Date: April 12, 2018
+/*
  *The Get methods all are methods that you can call from other classes
  *The Set methods are all methods that you can set values from other classes
  *All the different vehicle seperate classes have the dimension of each vehicle

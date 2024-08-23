@@ -1,6 +1,4 @@
-/**
- * @author Zareef
- * Date: April 12, 2018
+/*
  *The Road method does all the drawing of the lanes and checks for collisions as well as checks where the position of the car is after the next move
  */
 import javax.swing.*;

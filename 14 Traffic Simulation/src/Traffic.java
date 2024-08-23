@@ -1,8 +1,5 @@
 /**
  * The Traffic class is the Main Class
- * Date: April 12, 2018
- * @author Zareef Amyeen
- *
  */
 
 import javax.swing.*;

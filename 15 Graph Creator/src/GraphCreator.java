@@ -1,6 +1,6 @@
-/**Zareef Amyeen
- * May 15, 2018
- * Description: The Graph Creator program is designed to have nodes and edges and create */
+
+//Description: The Graph Creator program is designed to have nodes and edges and create 
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

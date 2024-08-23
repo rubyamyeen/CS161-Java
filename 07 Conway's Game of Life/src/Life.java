@@ -1,8 +1,6 @@
 /*
  * This program is an implementation of Conway's Life
  * simulation
- * Date: November 13th, 2017
- * Author: Zareef Amyeen
  */
 
 
